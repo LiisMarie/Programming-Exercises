@@ -1,7 +1,6 @@
 ## HackerRank problems   
 | Link to description | Language |   
 |:---|:---:| 
-|[Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions/problem?h_r=internal-search)|Python|
 |[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_r=internal-search)|Java|
 |[B'day Gift](https://www.hackerrank.com/challenges/bday-gift/problem?h_r=internal-search)|Python|
 |[Candies](https://www.hackerrank.com/challenges/candies/problem?h_r=internal-search)|Java|
