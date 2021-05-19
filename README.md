@@ -6,8 +6,13 @@
 ## Kattis problems   
 | Link to description | Language |   
 |:---|:---:| 
-|[]()||
-
+|[Alex and Barb](https://open.kattis.com/problems/alexandbarb)|Python|
+|[Credit Card Payment](https://open.kattis.com/problems/creditcard)|Python|
+|[Eating out](https://open.kattis.com/problems/eatingout)|Python|
+|[Line Them Up](https://open.kattis.com/problems/lineup)|Python|
+|[Pairing Socks](https://open.kattis.com/problems/pairingsocks)|Python|
+|[Preludes](https://open.kattis.com/problems/chopin)|Python|
+|[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|Python|
 
 ## UVa Online Judge problems   
 | Link to description | Language |   
